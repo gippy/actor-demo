@@ -1,0 +1,18 @@
+{
+    "name": "download-urls-actor",
+    "version": "0.0.1",
+    "type": "module",
+    "description": "This is a source code for actor which downloads urls",
+    "engines": {
+        "node": ">=16.0.0"
+    },
+    "dependencies": {
+        "apify": "^3.0.0",
+        "axios": "^1.2.2"
+    },
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "Jaroslav Hejlek",
+    "license": "ISC"
+}

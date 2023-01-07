@@ -1,0 +1,9 @@
+{
+	"actorSpecification": 1,
+	"name": "something",
+	"title": "Getting Started Actor",
+	"description": "Adds two integers.",
+	"version": "0.0",
+	"readme": "./README.md",
+	"dockerfile": "./Dockerfile"
+}
